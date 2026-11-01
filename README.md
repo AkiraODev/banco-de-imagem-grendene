@@ -1,3 +1,4 @@
+
 # banco-de-imagem-grendene
 # Grendene Catalog
 
@@ -34,3 +35,5 @@ Para atualizar uma das versões anteriores desta entrega, instale por cima, **se
 - Exportação e importação de backup completo.
 - Compartilhamento do aplicativo e do catálogo para outro celular.
 - Preparação para avisos e download de atualizações pelo GitHub Releases.
+
+<img width="870" height="923" alt="GrendeneCatalog-visual-0 3 0" src="https://github.com/user-attachments/assets/e438789b-c6bc-4dcb-a912-bade5abfbf9f" />
